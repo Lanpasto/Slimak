@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Slimak</string>
+    <string name="market">Market</string>
+    <string name="music">Music</string>
+    <string name="sound">Sound</string>
+    <string name="_600_gold">600 gold</string>
+    <string name="_400_gold">400 gold</string>
+    <string name="_2300_gold">2300 gold</string>
+    <string name="_230_gold">230 gold</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="point">0</string>
+    <string name="castle">0</string>
+    <string name="tower">0</string>
+    <string name="_0">0</string>
+</resources>
